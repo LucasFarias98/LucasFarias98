@@ -4,8 +4,7 @@
 
 **Desenvolvedor Web Full Stack** `HTML • CSS • JS • React` `Python • Java` `Projetos com IA` ✨
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFarias98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F0F0F&title_color=00FFFF&text_color=FFFFFF&icon_color=00D4FF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFarias98&layout=compact&theme=dracula&hide_border=true&bg_color=0F0F0F&title_color=00FFFF&text_color=FFFFFF)
+
 
 </div>
 
