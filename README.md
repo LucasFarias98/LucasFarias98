@@ -22,9 +22,9 @@
 
 </section>
 
-<footer align="center">
+<section align ="center">
 
 `💫 Full Stack Developer | IA Enthusiast | Sempre aprendendo`
 
 
-</footer>
+</section>
