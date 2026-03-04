@@ -25,7 +25,6 @@
 <div align="center">
 
 `💫 Full Stack Developer | IA Enthusiast | Sempre aprendendo`
-  
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=LucasFarias98&theme=dracula&hide_border=true)](https://github.com/LucasFarias98)
+
 
 </div>
