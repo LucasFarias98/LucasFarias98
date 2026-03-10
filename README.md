@@ -3,7 +3,7 @@
 # 👨‍💻 Olá, sou Lucas Farias! 
 <p>Formado como técnico em informática em 2015 na escola  ITB - Instituto Técnico de Barueri - Brasílio Flores de Azevedo e em Análise e Desenvolvimento de Sistemas em 2018 na universidade Uninove, atualmente estou no processo de desenvolvimento na área de Front-End, estou  frequentemente estudando na plataforma da Alura Cursos Online, DIO e Udemy.</p>
 <p>Em minhas experiências prévias na graduação atuei em projetos de desenvolvimento de sistemas corporativos nas seguintes linguagens: Python, SQL Server, JavaScript, SASS, HTML5, CSS3, C#, entre outras linguagens de apoio. Por fim, participei em projetos que exigiam trabalho em grupo, o que possibilitou o desenvolvimento de soft skills, tais como: comunicação, negociação e trabalho em equipe.</p>
-**Desenvolvedor Web Full Stack** `HTML • CSS • JS • React` `Python • Java` `Projetos com IA` ✨
+**Desenvolvedor Web ** `HTML • CSS • JS • React` `Python • Java` `Projetos com IA` ✨
 
 
 
@@ -25,7 +25,7 @@
 
 <section align ="center">
 
-`💫 Full Stack Developer | IA Enthusiast | Sempre aprendendo`
+`💫 Developer | IA Enthusiast | Sempre aprendendo`
 
 
 </section>
